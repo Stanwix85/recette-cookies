@@ -1,10 +1,3 @@
 # recette-cookies
->Une recette gourmande :P
-- 85 g de beurre mou
-- 1 œuf
-- 85g de sucre
-- 1 sachet de sucre vanillé
-- 150g de farine
-- 100g de chocolat noir
-- 1 cuillère à café de sel
-- 1 cuillère à café de levure chimique
+
+some more instructions 
