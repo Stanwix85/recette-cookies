@@ -19,5 +19,7 @@
 # Ignore all local history of files
 .history
 .ionide
+.password-local
+.password-prod
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
